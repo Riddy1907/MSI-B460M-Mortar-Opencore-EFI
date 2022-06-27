@@ -24,3 +24,6 @@ Works with 12.4 Monterey
 - [x] Handoff
 - [x] SideCar
 - [x] Universal Control
+
+## Additional
+- To have working 1 Gbit Ethernet go to System Settings > Network > Ethernet > more Options... > Hardware > Configuration: Manuel & Speed: 1000baseT
